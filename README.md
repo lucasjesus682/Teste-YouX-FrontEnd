@@ -1,8 +1,49 @@
-# React + Vite
+# Teste YouX - FrontEnd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## O QUE FOI FEITO NA APLICAÇÃO :
 
-Currently, two official plugins are available:
+Um sistema de registro e login para interagir visualmente com o banckend disponivel em https://github.com/lucasjesus682/Teste-YouX
+## FUNCIONALIDADES :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Registra usuario
+- Login de usuario
+
+
+## FERRAMENTAS :
+
+Front end:
+
+      - Javascript
+      - React
+      - Sass
+      - Html
+      - NodeJs
+ 
+
+Dependências:
+
+     React router  - > Uma ferramenta para rotas.
+     React -> Biblioteca principal.
+
+
+Programas Utilizados :
+
+    Visual Studio Code -> Utilizado para desenvolver projeto.
+
+## Primeiros passos :
+
+    Tenha a ferramenta npm instalada no seu computador.
+    
+    Para iniciar você irá, dentro da IDE de escolha (preferencialmente Intelij IDEA), irá rodar no terminal o comando npm run dev
+
+    Após isso irá gerar seu local e você entrará no link.
+
+
+
+    
+## Como usar :
+
+   Cadastre seu usuário e faca seu login.
+
+    
+      
